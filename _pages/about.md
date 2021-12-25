@@ -6,15 +6,15 @@ permalink: /
 
 profile:
   align: right
-  image: sk4.jpg
+  image: sk5.jpg
   address: >
     <p>INF 013, EPFL IC</p>
     <p>CH-1015, Lausanne</p>
-    <p>firstname.lastname@epfl.ch</p>
+    <p>sounak.kar@epfl.ch</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 I am a post-doc at the [LCA2 lab](https://www.epfl.ch/labs/lca2/) of [EPFL](https://www.epfl.ch/) [IC](https://www.epfl.ch/schools/ic/). I defended my PhD thesis in Oct'21 at [Technical University of Darmstadt](https://www.kom.tu-darmstadt.de/kom-multimedia-communications-lab/). Previously, I obtained my bachelor's and master's degree from [Indian Statistical Institute, Kolkata](https://www.isical.ac.in). I am broadly interested in analyzing network performance using tools from Probability theory.
