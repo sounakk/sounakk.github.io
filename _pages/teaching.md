@@ -2,10 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+# description: Materials for courses you taught. Replace this text with your description.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+As teaching assitant:
 
-Organize your courses by years, topics, or universities, however you like!
+[Communication Networks IV](https://www.kom.tu-darmstadt.de/teaching/former-courses/communication-networks-iv-performance-evaluation/general-information/), TU Darmstadt (2019)
+
+[Communication Networks I](https://www.kom.tu-darmstadt.de/teaching/current-courses/communication-networks-i/general-information/), TU Darmstadt (2018-21)
+
+<!-- Organize your courses by years, topics, or universities, however you like! -->
