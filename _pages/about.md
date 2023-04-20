@@ -16,8 +16,9 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am on the academic job market.
 
-I am a post-doc at the [LCA2 lab](https://www.epfl.ch/labs/lca2/) of [EPFL](https://www.epfl.ch/) [IC](https://www.epfl.ch/schools/ic/). I defended my PhD thesis in Oct'21 at [Technical University of Darmstadt](https://www.kom.tu-darmstadt.de/kom-multimedia-communications-lab/). Previously, I obtained my bachelor's and master's degree from [Indian Statistical Institute, Kolkata](https://www.isical.ac.in). I am broadly interested in analyzing network performance using tools from Probability theory.
+I am a post-doc at the [LCA2 lab](https://www.epfl.ch/labs/lca2/) of [EPFL](https://www.epfl.ch/) [IC](https://www.epfl.ch/schools/ic/). I obtained my PhD from [Technical University of Darmstadt](https://www.kom.tu-darmstadt.de/kom-multimedia-communications-lab/) in Oct'21. Before that I did my master's and bachelor's from [Indian Statistical Institute, Kolkata](https://www.isical.ac.in). I am broadly interested in analyzing network performance using tools from Probability theory.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
