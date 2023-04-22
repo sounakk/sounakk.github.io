@@ -16,7 +16,7 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<b>I am on the academic job market.</b>
+<i>I am on the academic job market.</i>
 
 I am a postdoc at the [LCA2 lab](https://www.epfl.ch/labs/lca2/) of [EPFL](https://www.epfl.ch/) [IC](https://www.epfl.ch/schools/ic/). I obtained my PhD from the [Technical University of Darmstadt](https://www.kom.tu-darmstadt.de/kom-multimedia-communications-lab/) in Oct'21. Before that, I did my master's and bachelor's at the [Indian Statistical Institute, Kolkata](https://www.isical.ac.in). I am broadly interested in analyzing network performance using tools from probability theory.
 
