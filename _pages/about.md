@@ -9,7 +9,7 @@ profile:
   image: sk5.jpg
   address: >
     <p>INF 013, EPFL IC</p>
-    <p>CH-1015, Lausanne</p>
+    <p>CH 1015, Lausanne</p>
     <p>sounak.kar@epfl.ch</p>
 
 news: false  # includes a list of news items
@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 <b>I am on the academic job market.</b>
 
-I am a post-doc at the [LCA2 lab](https://www.epfl.ch/labs/lca2/) of [EPFL](https://www.epfl.ch/) [IC](https://www.epfl.ch/schools/ic/). I obtained my PhD from [Technical University of Darmstadt](https://www.kom.tu-darmstadt.de/kom-multimedia-communications-lab/) in Oct'21. Before that I did my master's and bachelor's from [Indian Statistical Institute, Kolkata](https://www.isical.ac.in). I am broadly interested in analyzing network performance using tools from Probability theory.
+I am a postdoc at the [LCA2 lab](https://www.epfl.ch/labs/lca2/) of [EPFL](https://www.epfl.ch/) [IC](https://www.epfl.ch/schools/ic/). I obtained my PhD from the [Technical University of Darmstadt](https://www.kom.tu-darmstadt.de/kom-multimedia-communications-lab/) in Oct'21. Before that, I did my master's and bachelor's at the [Indian Statistical Institute, Kolkata](https://www.isical.ac.in). I am broadly interested in analyzing network performance using tools from probability theory.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
