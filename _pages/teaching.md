@@ -14,6 +14,6 @@ As teaching assitant:
 
 Communication Networks IV, TU Darmstadt (2019)
 
-[Communication Networks I](https://www.kom.tu-darmstadt.de/en/kn1), TU Darmstadt (2018-21)
+[Communication Networks I](https://www.kom.tu-darmstadt.de/en/kn1), TU Darmstadt (2018-2021)
 
 <!-- Organize your courses by years, topics, or universities, however you like! -->
