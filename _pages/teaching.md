@@ -8,7 +8,7 @@ nav: true
 
 As teaching assitant:
 
-[Smart Grid Technologies](https://edu.epfl.ch/coursebook/en/smart-grids-technologies-EE-472), EPFL (2022-23)
+[Smart Grid Technologies](https://edu.epfl.ch/coursebook/en/smart-grids-technologies-EE-472), EPFL (2022-2023)
 
 [TCP/IP Networking](https://edu.epfl.ch/coursebook/en/tcp-ip-networking-COM-407), EPFL (2022)
 
