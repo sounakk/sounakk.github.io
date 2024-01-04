@@ -8,8 +8,8 @@ profile:
   align: right
   image: sk5.jpg
   address: >
-    <p>22 B111, QuTech, TU Delft</p>
-    <p>2628CN, Delft</p>
+    <p>22 B111, QuTech,</p>
+    <p>TU Delft, 2628CN, NL</p>
     <p>s.kar-1@tudelft.nl</p>
 
 news: false  # includes a list of news items
