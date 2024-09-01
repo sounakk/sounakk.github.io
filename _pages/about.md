@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a postdoc at [QuTech](https://qutech.nl/), [TU Delft](https://www.tudelft.nl/en/). Previously, I was a postdoc at [EPFL](https://www.epfl.ch/) [IC](https://www.epfl.ch/schools/ic/). I obtained my PhD from the [Technical University of Darmstadt](https://www.kom.tu-darmstadt.de/en/) in October 2021. Before that, I did my master's and bachelor's at the [Indian Statistical Institute, Kolkata](https://www.isical.ac.in). I am broadly interested in analyzing (quantum and classical) network performance using tools from probability theory.
+I am a postdoc at [QuTech](https://qutech.nl/), [TU Delft](https://www.tudelft.nl/en/). Previously, I was a postdoc at [EPFL](https://www.epfl.ch/) [IC](https://www.epfl.ch/schools/ic/). I obtained my PhD from the [Technical University of Darmstadt](https://www.kom.tu-darmstadt.de/en/) in October 2021. Before that, I did my master's and bachelor's at the [Indian Statistical Institute, Kolkata](https://www.isical.ac.in). I am broadly interested in performance analysis of quantum and classical networks.
 
 [Here](https://drive.google.com/file/d/1TGDZYbsNBWfCwxVpTus16AVPHPO0PzKf/view?usp=sharing) is a copy of my CV.
 
