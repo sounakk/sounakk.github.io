@@ -6,13 +6,14 @@ title: teaching
 nav: true
 ---
 
-As teaching assitant:
+<p><u>As teaching assistant</u></p>
 
 [Smart Grid Technologies](https://edu.epfl.ch/coursebook/en/smart-grids-technologies-EE-472), EPFL (2022-2023)
 
 [TCP/IP Networking](https://edu.epfl.ch/coursebook/en/tcp-ip-networking-COM-407), EPFL (2022)
+<br><br>
 
-As substitute teacher and teaching assitant:
+<p><u>As substitute teacher and teaching assistant</u></p>
 
 Communication Networks IV, TU Darmstadt (2019)
 
