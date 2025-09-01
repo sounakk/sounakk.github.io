@@ -7,6 +7,15 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<p><u>As teaching assistant</u></p>
 
-Organize your courses by years, topics, or universities, however you like!
+[Smart Grid Technologies](https://edu.epfl.ch/coursebook/en/smart-grids-technologies-EE-472), EPFL (2022-2023)
+
+[TCP/IP Networking](https://edu.epfl.ch/coursebook/en/tcp-ip-networking-COM-407), EPFL (2022)
+<br><br>
+
+<p><u>As substitute teacher and teaching assistant</u></p>
+
+Communication Networks IV, TU Darmstadt (2019)
+
+[Communication Networks I](https://www.kom.tu-darmstadt.de/en/kn1), TU Darmstadt (2018-2021)
