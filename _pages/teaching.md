@@ -11,7 +11,7 @@ nav_order: 6
 
 [Smart Grid Technologies](https://edu.epfl.ch/coursebook/en/smart-grids-technologies-EE-472), EPFL (2022-2023)
 
-[TCP/IP Networking](https://edu.epfl.ch/coursebook/en/tcp-ip-networking-COM-407), EPFL (2022)
+[TCP/IP Networking](https://isa.epfl.ch/imoniteur_ISAP/!GEDPUBLICREPORTS.pdf?ww_i_reportModel=1696552884&ww_i_reportModelXsl=1696552963&ww_i_itemplan=2896633193&ww_c_langue=en), EPFL (2022)
 <br><br>
 
 <p><u>As substitute teacher and teaching assistant</u></p>
