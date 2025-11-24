@@ -1,6 +1,25 @@
 {
   "devDependencies": {
-    "@shopify/prettier-plugin-liquid": "1.4.0",
-    "prettier": "3.1.1"
-  }
+    "@shopify/prettier-plugin-liquid": "^1.4.0",
+    "prettier": "^3.1.1"
+  },
+  "name": "sounakk.github.io",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "purgecss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sounakk/sounakk.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sounakk/sounakk.github.io/issues"
+  },
+  "homepage": "https://github.com/sounakk/sounakk.github.io#readme"
 }
