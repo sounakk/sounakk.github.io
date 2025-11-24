@@ -13,7 +13,6 @@ on <a href="https://drive.google.com/file/d/1e6NWfEDrTcMC7rrulTLT0gQqPrPnzCN5/vi
 <a href="https://docs.google.com/presentation/d/15XbuiuPwycIDs1VcnJzu_mjJhp1sDYIZ/edit?usp=sharing&ouid=102621334781803239072&rtpof=true&sd=true">Part II</a> was given by Samuel Oslovich.
 </p>
 
-
 <p><u>As teaching assistant</u></p>
 
 [Smart Grid Technologies](https://edu.epfl.ch/coursebook/en/smart-grids-technologies-EE-472), EPFL (2022-2023)
