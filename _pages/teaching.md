@@ -9,7 +9,7 @@ nav_order: 6
 
 <p><u>Tutorials</u></p>
 
-Tutorial introducing basics of quantum communication and networking at IFIP Performance 2025: [part I](https://drive.google.com/file/d/1e6NWfEDrTcMC7rrulTLT0gQqPrPnzCN5/view?usp=sharing) and [part II](https://docs.google.com/presentation/d/15XbuiuPwycIDs1VcnJzu_mjJhp1sDYIZ/edit?usp=sharing&ouid=102621334781803239072&rtpof=true&sd=true). Part II was given by Samuel Oslovich.
+Tutorial introducing basics of quantum communication and networking at IFIP Performance 2025: [part I](https://drive.google.com/file/d/1XjFhtRKNXZwV77WoPr-ZCzbrAP-VaQt6/view?usp=sharing) and [part II](https://docs.google.com/presentation/d/15XbuiuPwycIDs1VcnJzu_mjJhp1sDYIZ/edit?usp=sharing&ouid=102621334781803239072&rtpof=true&sd=true). Part II was given by Samuel Oslovich.
 
 <p><u>As teaching assistant</u></p>
 
