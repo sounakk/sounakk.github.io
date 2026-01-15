@@ -29,4 +29,4 @@ latest_posts:
 
 I am currently a postdoc at [QuTech](https://qutech.nl/), [TU Delft](https://www.tudelft.nl/en/). Prior to this, I was a postdoc at [EPFL](https://www.epfl.ch/) [IC](https://www.epfl.ch/schools/ic/). I received my PhD from the [Technical University of Darmstadt](https://www.kom.tu-darmstadt.de/en/) in October 2021, following a master's and bachelor's degree from the [Indian Statistical Institute, Kolkata](https://www.isical.ac.in). I am broadly interested in performance analysis of quantum and classical networks.
 
-[Here](https://drive.google.com/file/d/1TGDZYbsNBWfCwxVpTus16AVPHPO0PzKf/view?usp=sharing) is a copy of my CV.
+[Here](https://sounakk.github.io/assets/pdf/cvSounakKar.pdf) is a copy of my CV.
