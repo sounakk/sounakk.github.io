@@ -26,7 +26,7 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am on the academic job market.
+<i>I am on the academic job market.</i>
 
 I am currently a postdoc at [QuTech](https://qutech.nl/), [TU Delft](https://www.tudelft.nl/en/). Prior to this, I was a postdoc at [EPFL](https://www.epfl.ch/) [IC](https://www.epfl.ch/schools/ic/). I received my PhD from the [Technical University of Darmstadt](https://www.kom.tu-darmstadt.de/en/) in October 2021, following a master's and bachelor's degree from the [Indian Statistical Institute, Kolkata](https://www.isical.ac.in). I am broadly interested in performance analysis of quantum and classical networks.
 
